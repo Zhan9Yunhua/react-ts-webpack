@@ -76,7 +76,7 @@
   "dependencies": {
     "antd": "^3.9.2",
     "axios": "^0.18.0",
-    "immer": "^1.7.2",
+    "immer": "^8.0.1",
     "marked": "^0.6.0",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
