@@ -80,7 +80,7 @@
     "marked": "^0.6.0",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.24.0",
     "react": "^16.6.0",
     "react-color": "^2.14.1",
     "react-dom": "^16.6.0",
